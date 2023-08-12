@@ -1,0 +1,28 @@
+.userdata-profile{
+    text-align: center;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: aqua;
+}
+.userdata-h1{
+    font-size: 2rem;
+    text-align: center;
+    color: rgb(230, 229, 229);
+
+}
+.logout-btn{
+    /* display: block; */
+    background-color: rgb(166, 13, 13);
+    color: white;
+    border: none;
+    padding: 10px 30px;
+    margin: 5px;
+    cursor: pointer;
+    border-radius: 3px;
+    font-size: 1rem;
+}
+.logout-btn:hover{
+    box-shadow: 1px 1px 5px 3px rgba(128, 128, 128, 0.236);
+    cursor: pointer;
+}

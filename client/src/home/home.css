@@ -1,0 +1,22 @@
+*{
+    background-color: #121212;
+}
+.home{
+    height: 100vh;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    color: white;
+}
+
+.post{
+    margin-left: 5vw;
+}
+.userdata{
+    margin-top: 10vh;
+    width: 22vw;
+    height: 80vh;
+    position: sticky;
+    text-align: center;
+    border-left: 1px solid rgba(128, 128, 128, 0.523);
+}
